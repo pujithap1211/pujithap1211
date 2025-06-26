@@ -6,7 +6,7 @@
 
 ### Most Used Languages
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=pujithap1211&layout=compact&theme=radical)
 
 
 
