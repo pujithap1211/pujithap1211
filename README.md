@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Pujitha Padmanabhuni
-- 👀 I’m interested in Machine Learning and Data Science.
+# Hi!! 👋 I'm Pujitha Padmanabhuni
+
+🎓 A passionate Computer Science undergraduate  
+💻 Enthusiastic about Web Development and Machine Learning  
+📫 Reach me at: pujipadmanabhuni444@gmail.com 
 
 
 <!---
